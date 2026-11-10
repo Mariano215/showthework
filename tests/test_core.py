@@ -98,3 +98,23 @@ def test_gemini_key_without_the_package_falls_back_to_claude(monkeypatch):
     monkeypatch.delenv("ANTHROPIC_API_KEY", raising=False)
     monkeypatch.delenv("ANTHROPIC_AUTH_TOKEN", raising=False)
     assert sc.available_extractors(["claude", "gemini"]) == {}
+
+
+def test_escape_sequences_in_a_quote_never_reach_the_terminal():
+    # a bare control character inside a real quote passes verification, so it must be stripped before printing
+    r = screen("priya", PRIYA, ["SQL"], {"m": fake([Evidence(skill="SQL", grade="NUMBER", quote="27 managers\x1b\x9b use it")])})
+    assert r.skills[0].grade == "NUMBER" and "\x1b" not in r.skills[0].quote and "\x9b" not in r.skills[0].quote
+    # a full escape sequence carries printable bytes ("[2J"), so the quote is not in the resume and nothing is printed
+    r = screen("priya", PRIYA, ["SQL"], {"m": fake([Evidence(skill="SQL", grade="NUMBER", quote="27 managers \x1b[2J use it")])})
+    assert r.skills[0].grade == "MISSING" and r.skills[0].quote == ""
+
+
+def test_numbers_match_on_word_boundaries():
+    assert verify(Evidence(skill="SQL", grade="NUMBER", quote="7 managers use it"), PRIYA)[0] == "MISSING"
+
+
+def test_a_quote_reused_for_several_skills_is_noted():
+    q = "ran a/b tests on the checkout page, conversion up 25%"
+    ev = [Evidence(skill="A/B", grade="NUMBER", quote=q), Evidence(skill="Python", grade="NUMBER", quote=q)]
+    r = screen("priya", PRIYA, ["A/B", "Python"], {"m": fake(ev)})
+    assert all("same quote backs 2 skills" in s.note for s in r.skills)

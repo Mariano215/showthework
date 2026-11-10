@@ -10,7 +10,7 @@ import secrets
 # Zero-width and bidi characters: invisible to a reviewer, read by the model. A common way to hide instructions.
 # Also bidi isolates, the soft hyphen, the Arabic letter mark and Unicode tag characters (invisible ASCII look-alikes).
 _ZERO_WIDTH = re.compile("[­؜​-‏ - ⁠-⁤⁦-⁩﻿\U000e0000-\U000e007f]")
-_CONTROL = re.compile(r"[\x00-\x08\x0b-\x1f\x7f]")
+_CONTROL = re.compile(r"[\x00-\x08\x0b-\x1f\x7f-\x9f]")  # C0 and C1 controls: ESC and CSI start terminal escape sequences
 _HIJACK = re.compile(
     r"ignore (all |any )?(previous|prior|above) (instructions|directions)|disregard (your|the|all) (earlier |prior |previous )?"
     r"(instructions|directions)|you are now|act as if|system prompt|new instructions|"

@@ -65,7 +65,9 @@ def verify(e: Evidence, resume: str) -> tuple[str, str]:
     """The grade the quote can actually support, and why it changed."""
     if e.grade == "MISSING":
         return "MISSING", ""
-    if not e.quote.strip() or _norm(e.quote) not in _norm(resume):
+    # Whole-word match: "27" must not match inside "127". The skill name is deliberately not required in the quote:
+    # "presented results to the VP every month" is real stakeholder evidence that never says "stakeholder".
+    if not e.quote.strip() or f" {_norm(e.quote)} " not in f" {_norm(resume)} ":
         return "MISSING", "quote not found in the resume"
     if e.grade in ("DESCRIBED", "NUMBER") and len(_norm(e.quote).split()) < 3:  # "27" or "SQL" alone is not described work
         return "LISTED", "quote too short to show described work"
@@ -140,7 +142,9 @@ def screen(name: str, raw_resume: str, skills: list[str], extractors: dict[str, 
         for s in skills:
             e = by_skill.get(s.lower()) or Evidence(skill=s, grade="MISSING", quote="")
             grade, note = verify(e, resume)
-            per_skill[s].append(SkillResult(s, grade, e.quote if grade != "MISSING" else "", POINTS[grade], note))
+            # Keep only the sanitized quote: it is model output and gets printed to a terminal.
+            quote = re.sub(r"\s+", " ", guard.sanitize(e.quote)) if grade != "MISSING" else ""
+            per_skill[s].append(SkillResult(s, grade, quote, POINTS[grade], note))
     if not used:
         raise RuntimeError(f"Every model's answer failed validation for {name}: {found_flags}")
     skills_out = []
@@ -148,5 +152,13 @@ def screen(name: str, raw_resume: str, skills: list[str], extractors: dict[str, 
         best = max(rs, key=lambda r: r.points)  # show the best supported quote; the score uses the average
         notes = sorted({r.note for r in rs if r.note})
         skills_out.append(SkillResult(s, best.grade, best.quote, sum(r.points for r in rs) / len(rs), "; ".join(notes)))
+    # One line can honestly evidence two skills ("SQL models behind Tableau dashboards"), so it is allowed, but shown.
+    seen: dict[str, int] = {}
+    for r in skills_out:
+        if r.quote:
+            seen[_norm(r.quote)] = seen.get(_norm(r.quote), 0) + 1
+    for r in skills_out:
+        if r.quote and seen[_norm(r.quote)] > 1:
+            r.note = "; ".join(x for x in [r.note, f"same quote backs {seen[_norm(r.quote)]} skills"] if x)
     score = round(100 * sum(r.points for r in skills_out) / len(skills_out), 1)
     return Result(name, score, skills_out, used, found_flags)
