@@ -1,0 +1,15 @@
+Tomas Grant
+
+SUMMARY
+Data analyst with 3 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Bluefin Retail (1 yrs)
+- Edited product imagery in Photoshop
+Analyst, Tidewater Goods (2 yrs)
+
+SKILLS
+A/B testing, Airflow, Python, SQL, Tableau, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

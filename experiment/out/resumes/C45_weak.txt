@@ -1,0 +1,15 @@
+Priya Haddad
+
+SUMMARY
+Data analyst with 3 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Cedar Health (1 yrs)
+- Produced pipeline reports from Salesforce
+Analyst, Quarry Analytics (2 yrs)
+
+SKILLS
+Airflow, Java, Salesforce, customer support, forecasting
+
+EDUCATION
+B.S., State University

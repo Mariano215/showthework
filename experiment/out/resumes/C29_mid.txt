@@ -1,0 +1,20 @@
+Tomas Kowalski
+
+SUMMARY
+data analyst, 4 years experiance.
+
+EXPERIENCE
+Data Analyst, Tidewater Goods (2 yrs)
+- wrote the sql for the weekly ops report, 21 managers use it
+- made tableau dashboards for 33 warehouse sites
+- ran a/b tests on the checkout page, conversion up 19%
+Analyst, Redwood Mutual (2 yrs)
+- moved our models to dbt, 13 models
+- set up airflow jobs for 38 nightly loads
+- edited product photos
+
+SKILLS
+A/B testing, Airflow, Excel, Photoshop, Python, SQL, Salesforce, Tableau, dbt, logistics
+
+EDUCATION
+B.S., State University

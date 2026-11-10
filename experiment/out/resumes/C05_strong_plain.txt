@@ -1,0 +1,24 @@
+Fatima Patel
+
+SUMMARY
+data analyst, 9 years experiance.
+
+EXPERIENCE
+Data Analyst, Bluefin Retail (4 yrs)
+- wrote the sql for the weekly ops report, 36 managers use it
+- automated invoice matching in python, saved 16 hours a month
+- made tableau dashboards for 30 warehouse sites
+- ran a/b tests on the checkout page, conversion up 24%
+- built a demand forecast that cut stockouts 32%
+Analyst, Quarry Analytics (5 yrs)
+- presented results to the vp of ops every month, 17 decks
+- moved our models to dbt, 7 models
+- set up airflow jobs for 38 nightly loads
+- worked on route data for 28 trucks
+- pulled reports out of salesforce
+
+SKILLS
+A/B testing, Airflow, Excel, Python, SQL, Salesforce, Tableau, customer support, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

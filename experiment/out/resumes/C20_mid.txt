@@ -1,0 +1,19 @@
+Owen Okafor
+
+SUMMARY
+Data analyst with 6 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Bluefin Retail (3 yrs)
+- Built the SQL behind the weekly operations report used by 24 managers
+- Developed a demand forecasting model that reduced stockouts 38%
+- Analyzed routing data for a 36-truck fleet
+Analyst, Lumen Foods (3 yrs)
+- Edited product imagery in Photoshop
+- Produced pipeline reports from Salesforce
+
+SKILLS
+Java, Photoshop, Python, SQL, Salesforce, Tableau, dbt, forecasting, logistics
+
+EDUCATION
+B.S., State University

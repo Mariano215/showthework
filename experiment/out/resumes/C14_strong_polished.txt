@@ -1,0 +1,21 @@
+Ingrid Grant
+
+SUMMARY
+Data analyst with 6 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Cedar Health (3 yrs)
+- Built the SQL behind the weekly operations report used by 9 managers
+- Automated invoice reconciliation in Python, saving 23 staff hours per month
+- Designed Tableau dashboards adopted across 34 warehouse sites
+- Ran A/B tests on checkout flow that lifted conversion 9%
+Analyst, Northgate Parcel (3 yrs)
+- Developed a demand forecasting model that reduced stockouts 7%
+- Presented monthly findings to the VP of Operations (27 briefings)
+- Analyzed routing data for a 10-truck fleet
+
+SKILLS
+A/B testing, Excel, Java, Python, SQL, Salesforce, Tableau, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

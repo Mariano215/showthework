@@ -1,0 +1,23 @@
+Owen Ito
+
+SUMMARY
+data analyst, 7 years experiance.
+
+EXPERIENCE
+Data Analyst, Lumen Foods (3 yrs)
+- wrote the sql for the weekly ops report, 23 managers use it
+- automated invoice matching in python, saved 13 hours a month
+- made tableau dashboards for 19 warehouse sites
+- ran a/b tests on the checkout page, conversion up 19%
+- built a demand forecast that cut stockouts 7%
+Analyst, Bluefin Retail (4 yrs)
+- presented results to the vp of ops every month, 3 decks
+- worked on route data for 29 trucks
+- edited product photos
+- made slides for team meetings
+
+SKILLS
+A/B testing, Excel, Photoshop, PowerPoint, Python, SQL, Tableau, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

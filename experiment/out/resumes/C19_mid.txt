@@ -1,0 +1,20 @@
+Samir Reyes
+
+SUMMARY
+Data analyst with 5 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Northgate Parcel (2 yrs)
+- Presented monthly findings to the VP of Operations (4 briefings)
+- Migrated 33 data models to dbt
+- Orchestrated 26 nightly loads in Airflow
+Analyst, Tidewater Goods (3 yrs)
+- Resolved about 32 customer tickets weekly
+- Produced pipeline reports from Salesforce
+- Maintained features in a Java application
+
+SKILLS
+Airflow, Java, Python, Salesforce, Tableau, customer support, dbt, stakeholder communication
+
+EDUCATION
+B.S., State University

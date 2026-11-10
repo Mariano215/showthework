@@ -1,0 +1,36 @@
+SOFIA MENSAH
+Remote, US | sofia.mensah@email.com | (555) 019-2834 | linkedin.com/in/sofia-mensah | github.com/sofia-mensah
+
+PROFESSIONAL SUMMARY
+Senior Data Analyst with 5 years of experience leveraging operational, logistics, and freight data to drive high-impact business decisions. Proficient in SQL, Python, Tableau, and modern data transformation pipelines (dbt, Airflow), with a specialized focus on capacity forecasting, network experimentation (A/B testing), and executive stakeholder communication. Proven track record of optimizing supply chain performance, reducing delivery variance, and translating complex logistics data into actionable operational strategies.
+
+CORE COMPETENCIES
+- Analytics & Modeling: Operational Analytics, Demand Forecasting, A/B Testing & Experimentation, Predictive Modeling, Root Cause Analysis
+- Languages & Tools: SQL (Advanced), Python (Pandas, NumPy, Scikit-learn), Tableau, Excel (VBA, Power Query), Git
+- Data Engineering & Ops: dbt, Apache Airflow, Data Warehousing (Snowflake/BigQuery), ETL Pipeline Optimization
+- Supply Chain & Logistics: Freight & Carrier Performance, OTIF (On-Time In-Full), Route Efficiency, SLA Tracking, Inventory Flow
+
+PROFESSIONAL EXPERIENCE
+
+Tidewater Goods
+Data Analyst, Operations & Supply Chain | 2022 – Present
+- Architected and deployed 12+ production Tableau dashboards connected to custom SQL data models, providing operations leadership with real-time visibility into freight dispatch, carrier SLAs, and fulfillment bottlenecks.
+- Engineered automated time-series forecasting models in Python (Prophet, ARIMA) to predict weekly freight demand and shipping capacity, decreasing fulfillment variance by 19% across peak seasons.
+- Designed and analyzed operational A/B tests on order routing and dispatch schedules, identifying workflow efficiencies that increased on-time delivery rates by 14%.
+- Developed modular data transformation pipelines using dbt and scheduled runs via Apache Airflow, reducing reporting latency from 24 hours to sub-hourly for key supply chain metrics.
+- Translated complex logistics telemetry into bi-weekly strategic briefings for operations directors, directly informing vendor rate negotiations and warehouse labor allocation.
+- Modernized legacy Excel budget and capacity models into scalable Python/SQL workflows, cutting departmental reporting turnaround time by 65%.
+
+Lumen Foods
+Operations Analyst | 2019 – 2022
+- Authored complex SQL queries (CTEs, window functions) to analyze end-to-end distribution workflows, tracking order lifecycles and identifying distribution center transit chokepoints.
+- Built automated inventory and freight forecasting reports in Python and Excel, enabling supply chain planners to reduce holding costs by 12% while maintaining a 98.5% order fulfillment rate.
+- Partnered cross-functionally with logistics coordinators, procurement teams, and 3PL partners to define operational KPIs, standardize carrier scorecards, and audit billing variances.
+- Conducted controlled pilot tests (A/B testing) on cross-docking procedures, reducing cargo dwell time by an average of 42 minutes per truckload.
+- Visualized vendor reliability and transit SLA adherence in Tableau, providing key data inputs that eliminated underperforming freight routes and saved $350K annually.
+
+EDUCATION
+
+State University
+Bachelor of Science in Industrial Systems / Business Analytics
+Graduated: 2019

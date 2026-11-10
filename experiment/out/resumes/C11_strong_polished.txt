@@ -1,0 +1,24 @@
+Amara Reyes
+
+SUMMARY
+Data analyst with 7 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Lumen Foods (3 yrs)
+- Built the SQL behind the weekly operations report used by 36 managers
+- Automated invoice reconciliation in Python, saving 23 staff hours per month
+- Designed Tableau dashboards adopted across 6 warehouse sites
+- Ran A/B tests on checkout flow that lifted conversion 3%
+- Developed a demand forecasting model that reduced stockouts 18%
+Analyst, Northgate Parcel (4 yrs)
+- Presented monthly findings to the VP of Operations (33 briefings)
+- Migrated 6 data models to dbt
+- Orchestrated 17 nightly loads in Airflow
+- Analyzed routing data for a 35-truck fleet
+- Maintained the departmental budget model in Excel
+
+SKILLS
+A/B testing, Airflow, Excel, Java, PowerPoint, Python, SQL, Tableau, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

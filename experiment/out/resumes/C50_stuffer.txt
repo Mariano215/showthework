@@ -1,0 +1,15 @@
+Marcus Moreau
+
+SUMMARY
+Data analyst with 2 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Cedar Health (1 yrs)
+- Maintained the departmental budget model in Excel
+Analyst, Lumen Foods (1 yrs)
+
+SKILLS
+A/B testing, Airflow, Python, SQL, Tableau, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

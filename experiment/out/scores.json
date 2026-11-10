@@ -1,0 +1,2102 @@
+[
+ {
+  "id": "C01",
+  "version": "human",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C01",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 94,
+  "evidence": 100.0
+ },
+ {
+  "id": "C01",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C01",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 100.0
+ },
+ {
+  "id": "C01",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 93.3
+ },
+ {
+  "id": "C01",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 93.3
+ },
+ {
+  "id": "C02",
+  "version": "human",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C02",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 100.0
+ },
+ {
+  "id": "C02",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C02",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C02",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 92,
+  "evidence": 100.0
+ },
+ {
+  "id": "C02",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C03",
+  "version": "human",
+  "screener": "claude",
+  "naive": 82,
+  "evidence": 100.0
+ },
+ {
+  "id": "C03",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C03",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 85,
+  "evidence": 100.0
+ },
+ {
+  "id": "C03",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 100.0
+ },
+ {
+  "id": "C03",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 93.3
+ },
+ {
+  "id": "C03",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 93.3
+ },
+ {
+  "id": "C04",
+  "version": "human",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C04",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C04",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C04",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 100.0
+ },
+ {
+  "id": "C04",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C04",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C05",
+  "version": "human",
+  "screener": "claude",
+  "naive": 93,
+  "evidence": 100.0
+ },
+ {
+  "id": "C05",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 100.0
+ },
+ {
+  "id": "C05",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 93,
+  "evidence": 100.0
+ },
+ {
+  "id": "C05",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C05",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 93,
+  "evidence": 100.0
+ },
+ {
+  "id": "C05",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C06",
+  "version": "human",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 100.0
+ },
+ {
+  "id": "C06",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C06",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C06",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 100.0
+ },
+ {
+  "id": "C06",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C06",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 100.0
+ },
+ {
+  "id": "C07",
+  "version": "human",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C07",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C07",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 100.0
+ },
+ {
+  "id": "C07",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C07",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 93.3
+ },
+ {
+  "id": "C07",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 93.3
+ },
+ {
+  "id": "C08",
+  "version": "human",
+  "screener": "claude",
+  "naive": 85,
+  "evidence": 100.0
+ },
+ {
+  "id": "C08",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C08",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C08",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 94,
+  "evidence": 100.0
+ },
+ {
+  "id": "C08",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 92,
+  "evidence": 93.3
+ },
+ {
+  "id": "C08",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 93.3
+ },
+ {
+  "id": "C09",
+  "version": "human",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C09",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 92,
+  "evidence": 100.0
+ },
+ {
+  "id": "C09",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C09",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 100.0
+ },
+ {
+  "id": "C09",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 92,
+  "evidence": 100.0
+ },
+ {
+  "id": "C09",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 100.0
+ },
+ {
+  "id": "C10",
+  "version": "human",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C10",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C10",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 85,
+  "evidence": 100.0
+ },
+ {
+  "id": "C10",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 93,
+  "evidence": 100.0
+ },
+ {
+  "id": "C10",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C10",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C11",
+  "version": "human",
+  "screener": "claude",
+  "naive": 95,
+  "evidence": 100.0
+ },
+ {
+  "id": "C11",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C11",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 93,
+  "evidence": 100.0
+ },
+ {
+  "id": "C11",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C11",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C11",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C12",
+  "version": "human",
+  "screener": "claude",
+  "naive": 94,
+  "evidence": 100.0
+ },
+ {
+  "id": "C12",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C12",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C12",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C12",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 92,
+  "evidence": 100.0
+ },
+ {
+  "id": "C12",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 100.0
+ },
+ {
+  "id": "C13",
+  "version": "human",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C13",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 100.0
+ },
+ {
+  "id": "C13",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 85,
+  "evidence": 100.0
+ },
+ {
+  "id": "C13",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 100.0
+ },
+ {
+  "id": "C13",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C13",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 100.0
+ },
+ {
+  "id": "C14",
+  "version": "human",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C14",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 92,
+  "evidence": 100.0
+ },
+ {
+  "id": "C14",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C14",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 94,
+  "evidence": 100.0
+ },
+ {
+  "id": "C14",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 85,
+  "evidence": 100.0
+ },
+ {
+  "id": "C14",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 93,
+  "evidence": 93.3
+ },
+ {
+  "id": "C15",
+  "version": "human",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C15",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 100.0
+ },
+ {
+  "id": "C15",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C15",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 100.0
+ },
+ {
+  "id": "C15",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 100.0
+ },
+ {
+  "id": "C15",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 100.0
+ },
+ {
+  "id": "C16",
+  "version": "human",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 70.8
+ },
+ {
+  "id": "C16",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 88,
+  "evidence": 70.8
+ },
+ {
+  "id": "C16",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 85,
+  "evidence": 70.8
+ },
+ {
+  "id": "C16",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 70.8
+ },
+ {
+  "id": "C16",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 93.3
+ },
+ {
+  "id": "C16",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 93.3
+ },
+ {
+  "id": "C17",
+  "version": "human",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 45.8
+ },
+ {
+  "id": "C17",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 78,
+  "evidence": 45.8
+ },
+ {
+  "id": "C17",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 45.8
+ },
+ {
+  "id": "C17",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 90,
+  "evidence": 45.8
+ },
+ {
+  "id": "C17",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 92,
+  "evidence": 93.3
+ },
+ {
+  "id": "C17",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 93.3
+ },
+ {
+  "id": "C18",
+  "version": "human",
+  "screener": "claude",
+  "naive": 48,
+  "evidence": 41.7
+ },
+ {
+  "id": "C18",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 50,
+  "evidence": 41.7
+ },
+ {
+  "id": "C18",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 50,
+  "evidence": 47.5
+ },
+ {
+  "id": "C18",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 55,
+  "evidence": 47.5
+ },
+ {
+  "id": "C18",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 82,
+  "evidence": 80.0
+ },
+ {
+  "id": "C18",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 90,
+  "evidence": 80.0
+ },
+ {
+  "id": "C19",
+  "version": "human",
+  "screener": "claude",
+  "naive": 52,
+  "evidence": 25.0
+ },
+ {
+  "id": "C19",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 70,
+  "evidence": 25.0
+ },
+ {
+  "id": "C19",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 62,
+  "evidence": 25.0
+ },
+ {
+  "id": "C19",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 70,
+  "evidence": 25.0
+ },
+ {
+  "id": "C19",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 66.7
+ },
+ {
+  "id": "C19",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 66.7
+ },
+ {
+  "id": "C20",
+  "version": "human",
+  "screener": "claude",
+  "naive": 72,
+  "evidence": 41.7
+ },
+ {
+  "id": "C20",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 85,
+  "evidence": 41.7
+ },
+ {
+  "id": "C20",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 51.7
+ },
+ {
+  "id": "C20",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 88,
+  "evidence": 51.7
+ },
+ {
+  "id": "C20",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 86.7
+ },
+ {
+  "id": "C20",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 86.7
+ },
+ {
+  "id": "C21",
+  "version": "human",
+  "screener": "claude",
+  "naive": 45,
+  "evidence": 47.5
+ },
+ {
+  "id": "C21",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 42,
+  "evidence": 37.5
+ },
+ {
+  "id": "C21",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 52,
+  "evidence": 47.5
+ },
+ {
+  "id": "C21",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 58,
+  "evidence": 47.5
+ },
+ {
+  "id": "C21",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 86.7
+ },
+ {
+  "id": "C21",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 92,
+  "evidence": 86.7
+ },
+ {
+  "id": "C22",
+  "version": "human",
+  "screener": "claude",
+  "naive": 52,
+  "evidence": 20.8
+ },
+ {
+  "id": "C22",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 45,
+  "evidence": 20.8
+ },
+ {
+  "id": "C22",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 48,
+  "evidence": 20.8
+ },
+ {
+  "id": "C22",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 62,
+  "evidence": 20.8
+ },
+ {
+  "id": "C22",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 90,
+  "evidence": 73.3
+ },
+ {
+  "id": "C22",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 66.7
+ },
+ {
+  "id": "C23",
+  "version": "human",
+  "screener": "claude",
+  "naive": 42,
+  "evidence": 20.8
+ },
+ {
+  "id": "C23",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 45,
+  "evidence": 20.8
+ },
+ {
+  "id": "C23",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 58,
+  "evidence": 37.5
+ },
+ {
+  "id": "C23",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 70,
+  "evidence": 30.8
+ },
+ {
+  "id": "C23",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 85,
+  "evidence": 93.3
+ },
+ {
+  "id": "C23",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 94,
+  "evidence": 93.3
+ },
+ {
+  "id": "C24",
+  "version": "human",
+  "screener": "claude",
+  "naive": 74,
+  "evidence": 66.7
+ },
+ {
+  "id": "C24",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 82,
+  "evidence": 66.7
+ },
+ {
+  "id": "C24",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 78,
+  "evidence": 70.8
+ },
+ {
+  "id": "C24",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 86,
+  "evidence": 70.8
+ },
+ {
+  "id": "C24",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 80.0
+ },
+ {
+  "id": "C24",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 94,
+  "evidence": 80.0
+ },
+ {
+  "id": "C25",
+  "version": "human",
+  "screener": "claude",
+  "naive": 74,
+  "evidence": 58.3
+ },
+ {
+  "id": "C25",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 78,
+  "evidence": 58.3
+ },
+ {
+  "id": "C25",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 78,
+  "evidence": 68.3
+ },
+ {
+  "id": "C25",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 82,
+  "evidence": 68.3
+ },
+ {
+  "id": "C25",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 72,
+  "evidence": 100.0
+ },
+ {
+  "id": "C25",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 85,
+  "evidence": 93.3
+ },
+ {
+  "id": "C26",
+  "version": "human",
+  "screener": "claude",
+  "naive": 42,
+  "evidence": 25.0
+ },
+ {
+  "id": "C26",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 55,
+  "evidence": 25.0
+ },
+ {
+  "id": "C26",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 38,
+  "evidence": 29.2
+ },
+ {
+  "id": "C26",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 30,
+  "evidence": 29.2
+ },
+ {
+  "id": "C26",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 93.3
+ },
+ {
+  "id": "C26",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 92,
+  "evidence": 93.3
+ },
+ {
+  "id": "C27",
+  "version": "human",
+  "screener": "claude",
+  "naive": 42,
+  "evidence": 20.8
+ },
+ {
+  "id": "C27",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 50,
+  "evidence": 20.8
+ },
+ {
+  "id": "C27",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 42,
+  "evidence": 25.0
+ },
+ {
+  "id": "C27",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 60,
+  "evidence": 25.0
+ },
+ {
+  "id": "C27",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 68,
+  "evidence": 73.3
+ },
+ {
+  "id": "C27",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 85,
+  "evidence": 73.3
+ },
+ {
+  "id": "C28",
+  "version": "human",
+  "screener": "claude",
+  "naive": 58,
+  "evidence": 37.5
+ },
+ {
+  "id": "C28",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 62,
+  "evidence": 37.5
+ },
+ {
+  "id": "C28",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 58,
+  "evidence": 37.5
+ },
+ {
+  "id": "C28",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 68,
+  "evidence": 37.5
+ },
+ {
+  "id": "C28",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 82,
+  "evidence": 93.3
+ },
+ {
+  "id": "C28",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 92,
+  "evidence": 93.3
+ },
+ {
+  "id": "C29",
+  "version": "human",
+  "screener": "claude",
+  "naive": 72,
+  "evidence": 54.2
+ },
+ {
+  "id": "C29",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 76,
+  "evidence": 54.2
+ },
+ {
+  "id": "C29",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 72,
+  "evidence": 54.2
+ },
+ {
+  "id": "C29",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 85,
+  "evidence": 54.2
+ },
+ {
+  "id": "C29",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 82,
+  "evidence": 86.7
+ },
+ {
+  "id": "C29",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 80.0
+ },
+ {
+  "id": "C30",
+  "version": "human",
+  "screener": "claude",
+  "naive": 52,
+  "evidence": 41.7
+ },
+ {
+  "id": "C30",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 48,
+  "evidence": 41.7
+ },
+ {
+  "id": "C30",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 58,
+  "evidence": 41.7
+ },
+ {
+  "id": "C30",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 68,
+  "evidence": 41.7
+ },
+ {
+  "id": "C30",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 84,
+  "evidence": 93.3
+ },
+ {
+  "id": "C30",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 92,
+  "evidence": 93.3
+ },
+ {
+  "id": "C31",
+  "version": "human",
+  "screener": "claude",
+  "naive": 22,
+  "evidence": 8.3
+ },
+ {
+  "id": "C31",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 15,
+  "evidence": 8.3
+ },
+ {
+  "id": "C31",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 22,
+  "evidence": 18.3
+ },
+ {
+  "id": "C31",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 25,
+  "evidence": 18.3
+ },
+ {
+  "id": "C31",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 93.3
+ },
+ {
+  "id": "C31",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 90,
+  "evidence": 93.3
+ },
+ {
+  "id": "C32",
+  "version": "human",
+  "screener": "claude",
+  "naive": 24,
+  "evidence": 12.5
+ },
+ {
+  "id": "C32",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 20,
+  "evidence": 12.5
+ },
+ {
+  "id": "C32",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 22,
+  "evidence": 12.5
+ },
+ {
+  "id": "C32",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 15,
+  "evidence": 12.5
+ },
+ {
+  "id": "C32",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 72,
+  "evidence": 93.3
+ },
+ {
+  "id": "C32",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 92,
+  "evidence": 93.3
+ },
+ {
+  "id": "C33",
+  "version": "human",
+  "screener": "claude",
+  "naive": 68,
+  "evidence": 25.0
+ },
+ {
+  "id": "C33",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 58,
+  "evidence": 25.0
+ },
+ {
+  "id": "C33",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 42,
+  "evidence": 25.0
+ },
+ {
+  "id": "C33",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 25,
+  "evidence": 25.0
+ },
+ {
+  "id": "C33",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 86.7
+ },
+ {
+  "id": "C33",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 85,
+  "evidence": 86.7
+ },
+ {
+  "id": "C34",
+  "version": "human",
+  "screener": "claude",
+  "naive": 38,
+  "evidence": 26.7
+ },
+ {
+  "id": "C34",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 28,
+  "evidence": 16.7
+ },
+ {
+  "id": "C34",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 42,
+  "evidence": 26.7
+ },
+ {
+  "id": "C34",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 58,
+  "evidence": 26.7
+ },
+ {
+  "id": "C34",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 85,
+  "evidence": 100.0
+ },
+ {
+  "id": "C34",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 93.3
+ },
+ {
+  "id": "C35",
+  "version": "human",
+  "screener": "claude",
+  "naive": 32,
+  "evidence": 16.7
+ },
+ {
+  "id": "C35",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 32,
+  "evidence": 16.7
+ },
+ {
+  "id": "C35",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 30,
+  "evidence": 16.7
+ },
+ {
+  "id": "C35",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 25,
+  "evidence": 16.7
+ },
+ {
+  "id": "C35",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 72,
+  "evidence": 86.7
+ },
+ {
+  "id": "C35",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 88,
+  "evidence": 86.7
+ },
+ {
+  "id": "C36",
+  "version": "human",
+  "screener": "claude",
+  "naive": 45,
+  "evidence": 12.5
+ },
+ {
+  "id": "C36",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 45,
+  "evidence": 12.5
+ },
+ {
+  "id": "C36",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 38,
+  "evidence": 12.5
+ },
+ {
+  "id": "C36",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 25,
+  "evidence": 18.3
+ },
+ {
+  "id": "C36",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 93,
+  "evidence": 93.3
+ },
+ {
+  "id": "C36",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 98,
+  "evidence": 93.3
+ },
+ {
+  "id": "C37",
+  "version": "human",
+  "screener": "claude",
+  "naive": 22,
+  "evidence": 8.3
+ },
+ {
+  "id": "C37",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 25,
+  "evidence": 8.3
+ },
+ {
+  "id": "C37",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 32,
+  "evidence": 14.2
+ },
+ {
+  "id": "C37",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 42,
+  "evidence": 14.2
+ },
+ {
+  "id": "C37",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 80.0
+ },
+ {
+  "id": "C37",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 80.0
+ },
+ {
+  "id": "C38",
+  "version": "human",
+  "screener": "claude",
+  "naive": 28,
+  "evidence": 16.7
+ },
+ {
+  "id": "C38",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 28,
+  "evidence": 16.7
+ },
+ {
+  "id": "C38",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 28,
+  "evidence": 22.5
+ },
+ {
+  "id": "C38",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 40,
+  "evidence": 22.5
+ },
+ {
+  "id": "C38",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 86.7
+ },
+ {
+  "id": "C38",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 88,
+  "evidence": 86.7
+ },
+ {
+  "id": "C39",
+  "version": "human",
+  "screener": "claude",
+  "naive": 38,
+  "evidence": 16.7
+ },
+ {
+  "id": "C39",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 35,
+  "evidence": 16.7
+ },
+ {
+  "id": "C39",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 42,
+  "evidence": 26.7
+ },
+ {
+  "id": "C39",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 58,
+  "evidence": 26.7
+ },
+ {
+  "id": "C39",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 88,
+  "evidence": 100.0
+ },
+ {
+  "id": "C39",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 96,
+  "evidence": 93.3
+ },
+ {
+  "id": "C40",
+  "version": "human",
+  "screener": "claude",
+  "naive": 38,
+  "evidence": 20.8
+ },
+ {
+  "id": "C40",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 30,
+  "evidence": 20.8
+ },
+ {
+  "id": "C40",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 30,
+  "evidence": 26.7
+ },
+ {
+  "id": "C40",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 42,
+  "evidence": 26.7
+ },
+ {
+  "id": "C40",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 84,
+  "evidence": 86.7
+ },
+ {
+  "id": "C40",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 93,
+  "evidence": 86.7
+ },
+ {
+  "id": "C41",
+  "version": "human",
+  "screener": "claude",
+  "naive": 18,
+  "evidence": 8.3
+ },
+ {
+  "id": "C41",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 20,
+  "evidence": 8.3
+ },
+ {
+  "id": "C41",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 22,
+  "evidence": 25.0
+ },
+ {
+  "id": "C41",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 18,
+  "evidence": 25.0
+ },
+ {
+  "id": "C41",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 78,
+  "evidence": 80.0
+ },
+ {
+  "id": "C41",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 88,
+  "evidence": 80.0
+ },
+ {
+  "id": "C42",
+  "version": "human",
+  "screener": "claude",
+  "naive": 22,
+  "evidence": 16.7
+ },
+ {
+  "id": "C42",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 20,
+  "evidence": 16.7
+ },
+ {
+  "id": "C42",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 28,
+  "evidence": 22.5
+ },
+ {
+  "id": "C42",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 25,
+  "evidence": 22.5
+ },
+ {
+  "id": "C42",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 76,
+  "evidence": 93.3
+ },
+ {
+  "id": "C42",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 83,
+  "evidence": 93.3
+ },
+ {
+  "id": "C43",
+  "version": "human",
+  "screener": "claude",
+  "naive": 24,
+  "evidence": 12.5
+ },
+ {
+  "id": "C43",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 25,
+  "evidence": 12.5
+ },
+ {
+  "id": "C43",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 22,
+  "evidence": 12.5
+ },
+ {
+  "id": "C43",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 20,
+  "evidence": 12.5
+ },
+ {
+  "id": "C43",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 84,
+  "evidence": 93.3
+ },
+ {
+  "id": "C43",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 86.7
+ },
+ {
+  "id": "C44",
+  "version": "human",
+  "screener": "claude",
+  "naive": 30,
+  "evidence": 18.3
+ },
+ {
+  "id": "C44",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 28,
+  "evidence": 8.3
+ },
+ {
+  "id": "C44",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 28,
+  "evidence": 18.3
+ },
+ {
+  "id": "C44",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 25,
+  "evidence": 18.3
+ },
+ {
+  "id": "C44",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 72,
+  "evidence": 86.7
+ },
+ {
+  "id": "C44",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 88,
+  "evidence": 86.7
+ },
+ {
+  "id": "C45",
+  "version": "human",
+  "screener": "claude",
+  "naive": 22,
+  "evidence": 4.2
+ },
+ {
+  "id": "C45",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 28,
+  "evidence": 4.2
+ },
+ {
+  "id": "C45",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 22,
+  "evidence": 14.2
+ },
+ {
+  "id": "C45",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 15,
+  "evidence": 14.2
+ },
+ {
+  "id": "C45",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 93.3
+ },
+ {
+  "id": "C45",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 92,
+  "evidence": 93.3
+ },
+ {
+  "id": "C46",
+  "version": "human",
+  "screener": "claude",
+  "naive": 62,
+  "evidence": 25.0
+ },
+ {
+  "id": "C46",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 48,
+  "evidence": 25.0
+ },
+ {
+  "id": "C46",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 22,
+  "evidence": 30.8
+ },
+ {
+  "id": "C46",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 18,
+  "evidence": 30.8
+ },
+ {
+  "id": "C46",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 86.7
+ },
+ {
+  "id": "C46",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 80.0
+ },
+ {
+  "id": "C47",
+  "version": "human",
+  "screener": "claude",
+  "naive": 52,
+  "evidence": 30.8
+ },
+ {
+  "id": "C47",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 48,
+  "evidence": 25.0
+ },
+ {
+  "id": "C47",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 30,
+  "evidence": 30.8
+ },
+ {
+  "id": "C47",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 48,
+  "evidence": 30.8
+ },
+ {
+  "id": "C47",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 86.7
+ },
+ {
+  "id": "C47",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 92,
+  "evidence": 80.0
+ },
+ {
+  "id": "C48",
+  "version": "human",
+  "screener": "claude",
+  "naive": 42,
+  "evidence": 25.0
+ },
+ {
+  "id": "C48",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 32,
+  "evidence": 25.0
+ },
+ {
+  "id": "C48",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 38,
+  "evidence": 25.0
+ },
+ {
+  "id": "C48",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 25,
+  "evidence": 25.0
+ },
+ {
+  "id": "C48",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 82,
+  "evidence": 86.7
+ },
+ {
+  "id": "C48",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 90,
+  "evidence": 86.7
+ },
+ {
+  "id": "C49",
+  "version": "human",
+  "screener": "claude",
+  "naive": 52,
+  "evidence": 25.0
+ },
+ {
+  "id": "C49",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 28,
+  "evidence": 25.0
+ },
+ {
+  "id": "C49",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 35,
+  "evidence": 25.0
+ },
+ {
+  "id": "C49",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 20,
+  "evidence": 25.0
+ },
+ {
+  "id": "C49",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 82,
+  "evidence": 93.3
+ },
+ {
+  "id": "C49",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 92,
+  "evidence": 93.3
+ },
+ {
+  "id": "C50",
+  "version": "human",
+  "screener": "claude",
+  "naive": 42,
+  "evidence": 25.0
+ },
+ {
+  "id": "C50",
+  "version": "human",
+  "screener": "gemini",
+  "naive": 38,
+  "evidence": 25.0
+ },
+ {
+  "id": "C50",
+  "version": "ai_claude",
+  "screener": "claude",
+  "naive": 18,
+  "evidence": 25.0
+ },
+ {
+  "id": "C50",
+  "version": "ai_claude",
+  "screener": "gemini",
+  "naive": 20,
+  "evidence": 25.0
+ },
+ {
+  "id": "C50",
+  "version": "ai_gemini",
+  "screener": "claude",
+  "naive": 80,
+  "evidence": 86.7
+ },
+ {
+  "id": "C50",
+  "version": "ai_gemini",
+  "screener": "gemini",
+  "naive": 95,
+  "evidence": 93.3
+ }
+]

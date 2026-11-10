@@ -1,0 +1,21 @@
+Kwame Grant
+
+SUMMARY
+data analyst, 6 years experiance.
+
+EXPERIENCE
+Data Analyst, Northgate Parcel (3 yrs)
+- wrote the sql for the weekly ops report, 25 managers use it
+- automated invoice matching in python, saved 38 hours a month
+- made tableau dashboards for 39 warehouse sites
+- ran a/b tests on the checkout page, conversion up 37%
+Analyst, Quarry Analytics (3 yrs)
+- built a demand forecast that cut stockouts 16%
+- presented results to the vp of ops every month, 10 decks
+- edited product photos
+
+SKILLS
+A/B testing, Photoshop, Python, SQL, Salesforce, Tableau, customer support, dbt, forecasting, stakeholder communication
+
+EDUCATION
+B.S., State University

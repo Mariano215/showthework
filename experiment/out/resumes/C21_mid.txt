@@ -1,0 +1,20 @@
+Tomas Haddad
+
+SUMMARY
+data analyst, 4 years experiance.
+
+EXPERIENCE
+Data Analyst, Quarry Analytics (2 yrs)
+- ran a/b tests on the checkout page, conversion up 11%
+- built a demand forecast that cut stockouts 39%
+- moved our models to dbt, 5 models
+Analyst, Cedar Health (2 yrs)
+- edited product photos
+- answered customer tickets, about 11 a week
+- made slides for team meetings
+
+SKILLS
+A/B testing, Photoshop, PowerPoint, Tableau, customer support, dbt, forecasting, logistics
+
+EDUCATION
+B.S., State University

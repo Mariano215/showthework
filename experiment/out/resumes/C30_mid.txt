@@ -1,0 +1,18 @@
+Avery Haddad
+
+SUMMARY
+data analyst, 4 years experiance.
+
+EXPERIENCE
+Data Analyst, Quarry Analytics (2 yrs)
+- automated invoice matching in python, saved 13 hours a month
+- built a demand forecast that cut stockouts 35%
+Analyst, Bluefin Retail (2 yrs)
+- kept the budget sheet in excel
+- answered customer tickets, about 4 a week
+
+SKILLS
+Excel, Photoshop, Python, Tableau, customer support, dbt, forecasting, stakeholder communication
+
+EDUCATION
+B.S., State University

@@ -1,0 +1,16 @@
+Hiroshi Duarte
+
+SUMMARY
+Data analyst with 3 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Ironbridge Supply (1 yrs)
+- Edited product imagery in Photoshop
+Analyst, Cedar Health (2 yrs)
+- Maintained the departmental budget model in Excel
+
+SKILLS
+A/B testing, Airflow, Python, SQL, Tableau, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

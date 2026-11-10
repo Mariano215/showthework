@@ -1,0 +1,24 @@
+Dana Chen
+
+SUMMARY
+data analyst, 6 years experiance.
+
+EXPERIENCE
+Data Analyst, Bluefin Retail (3 yrs)
+- wrote the sql for the weekly ops report, 32 managers use it
+- automated invoice matching in python, saved 36 hours a month
+- made tableau dashboards for 34 warehouse sites
+- ran a/b tests on the checkout page, conversion up 26%
+- built a demand forecast that cut stockouts 15%
+Analyst, Redwood Mutual (3 yrs)
+- presented results to the vp of ops every month, 19 decks
+- moved our models to dbt, 34 models
+- set up airflow jobs for 32 nightly loads
+- worked on route data for 35 trucks
+- answered customer tickets, about 34 a week
+
+SKILLS
+A/B testing, Airflow, PowerPoint, Python, SQL, Salesforce, Tableau, customer support, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

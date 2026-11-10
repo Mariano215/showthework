@@ -1,0 +1,22 @@
+Nadia Novak
+
+SUMMARY
+data analyst, 9 years experiance.
+
+EXPERIENCE
+Data Analyst, Redwood Mutual (4 yrs)
+- wrote the sql for the weekly ops report, 11 managers use it
+- automated invoice matching in python, saved 25 hours a month
+- made tableau dashboards for 29 warehouse sites
+- ran a/b tests on the checkout page, conversion up 27%
+Analyst, Ironbridge Supply (5 yrs)
+- built a demand forecast that cut stockouts 27%
+- presented results to the vp of ops every month, 18 decks
+- made slides for team meetings
+- pulled reports out of salesforce
+
+SKILLS
+A/B testing, Java, PowerPoint, Python, SQL, Salesforce, Tableau, forecasting, stakeholder communication
+
+EDUCATION
+B.S., State University

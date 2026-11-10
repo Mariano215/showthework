@@ -1,0 +1,24 @@
+Nadia Silva
+
+SUMMARY
+Data analyst with 7 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Lumen Foods (3 yrs)
+- Built the SQL behind the weekly operations report used by 36 managers
+- Automated invoice reconciliation in Python, saving 29 staff hours per month
+- Designed Tableau dashboards adopted across 5 warehouse sites
+- Ran A/B tests on checkout flow that lifted conversion 14%
+- Developed a demand forecasting model that reduced stockouts 8%
+Analyst, Redwood Mutual (4 yrs)
+- Presented monthly findings to the VP of Operations (22 briefings)
+- Migrated 26 data models to dbt
+- Orchestrated 37 nightly loads in Airflow
+- Analyzed routing data for a 19-truck fleet
+- Edited product imagery in Photoshop
+
+SKILLS
+A/B testing, Airflow, Photoshop, PowerPoint, Python, SQL, Tableau, customer support, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

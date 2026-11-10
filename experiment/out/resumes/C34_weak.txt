@@ -1,0 +1,16 @@
+Kwame Ito
+
+SUMMARY
+data analyst, 4 years experiance.
+
+EXPERIENCE
+Data Analyst, Quarry Analytics (2 yrs)
+- made slides for team meetings
+Analyst, Redwood Mutual (2 yrs)
+- answered customer tickets, about 35 a week
+
+SKILLS
+A/B testing, PowerPoint, Python, SQL, Salesforce, Tableau, customer support, dbt
+
+EDUCATION
+B.S., State University

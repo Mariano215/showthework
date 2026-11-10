@@ -1,0 +1,16 @@
+Priya Kowalski
+
+SUMMARY
+Data analyst with 3 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Bluefin Retail (1 yrs)
+- Designed Tableau dashboards adopted across 20 warehouse sites
+Analyst, Ironbridge Supply (2 yrs)
+- Developed a demand forecasting model that reduced stockouts 8%
+
+SKILLS
+Airflow, Excel, Java, SQL, Tableau, customer support, dbt, forecasting
+
+EDUCATION
+B.S., State University

@@ -1,0 +1,16 @@
+Dana Grant
+
+SUMMARY
+Data analyst with 2 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Redwood Mutual (1 yrs)
+- Produced pipeline reports from Salesforce
+Analyst, Bluefin Retail (1 yrs)
+- Prepared presentation decks for team meetings
+
+SKILLS
+Airflow, Photoshop, PowerPoint, Salesforce, Tableau, dbt, forecasting
+
+EDUCATION
+B.S., State University

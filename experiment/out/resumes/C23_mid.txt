@@ -1,0 +1,18 @@
+Avery Lindqvist
+
+SUMMARY
+Data analyst with 4 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Cedar Health (2 yrs)
+- Designed Tableau dashboards adopted across 26 warehouse sites
+- Migrated 38 data models to dbt
+Analyst, Ironbridge Supply (2 yrs)
+- Prepared presentation decks for team meetings
+- Maintained features in a Java application
+
+SKILLS
+Airflow, Java, Photoshop, PowerPoint, Tableau, dbt, stakeholder communication
+
+EDUCATION
+B.S., State University

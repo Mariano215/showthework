@@ -1,0 +1,16 @@
+Rafael Ito
+
+SUMMARY
+data analyst, 3 years experiance.
+
+EXPERIENCE
+Data Analyst, Cedar Health (1 yrs)
+- kept the budget sheet in excel
+Analyst, Redwood Mutual (2 yrs)
+- edited product photos
+
+SKILLS
+Airflow, Excel, Photoshop, PowerPoint, SQL, Tableau, stakeholder communication
+
+EDUCATION
+B.S., State University

@@ -1,0 +1,16 @@
+Gabriel Reyes
+
+SUMMARY
+Data analyst with 3 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Ironbridge Supply (1 yrs)
+- Resolved about 15 customer tickets weekly
+Analyst, Bluefin Retail (2 yrs)
+- Prepared presentation decks for team meetings
+
+SKILLS
+A/B testing, Airflow, Python, SQL, Tableau, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

@@ -1,0 +1,17 @@
+Luis Moreau
+
+SUMMARY
+Data analyst with 4 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Quarry Analytics (2 yrs)
+- Edited product imagery in Photoshop
+- Produced pipeline reports from Salesforce
+Analyst, Redwood Mutual (2 yrs)
+- Maintained the departmental budget model in Excel
+
+SKILLS
+A/B testing, Excel, Photoshop, Python, SQL, Salesforce, Tableau, logistics
+
+EDUCATION
+B.S., State University

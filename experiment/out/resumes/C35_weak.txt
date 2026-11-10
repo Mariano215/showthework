@@ -1,0 +1,15 @@
+Amara Chen
+
+SUMMARY
+data analyst, 2 years experiance.
+
+EXPERIENCE
+Data Analyst, Cedar Health (1 yrs)
+- fixed bugs in a java app
+Analyst, Bluefin Retail (1 yrs)
+
+SKILLS
+Airflow, Java, Photoshop, Python, SQL, customer support, dbt, forecasting, stakeholder communication
+
+EDUCATION
+B.S., State University

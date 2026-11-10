@@ -1,0 +1,20 @@
+Samir Silva
+
+SUMMARY
+data analyst, 5 years experiance.
+
+EXPERIENCE
+Data Analyst, Quarry Analytics (2 yrs)
+- automated invoice matching in python, saved 12 hours a month
+- made tableau dashboards for 38 warehouse sites
+- ran a/b tests on the checkout page, conversion up 10%
+Analyst, Tidewater Goods (3 yrs)
+- built a demand forecast that cut stockouts 20%
+- kept the budget sheet in excel
+- pulled reports out of salesforce
+
+SKILLS
+A/B testing, Airflow, Excel, Java, Python, SQL, Salesforce, Tableau, dbt, forecasting, logistics
+
+EDUCATION
+B.S., State University

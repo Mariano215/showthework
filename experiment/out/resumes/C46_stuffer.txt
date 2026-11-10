@@ -1,0 +1,15 @@
+Nadia Haddad
+
+SUMMARY
+Data analyst with 4 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Redwood Mutual (2 yrs)
+- Maintained the departmental budget model in Excel
+Analyst, Tidewater Goods (2 yrs)
+
+SKILLS
+A/B testing, Airflow, Python, SQL, Tableau, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

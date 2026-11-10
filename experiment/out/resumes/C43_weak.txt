@@ -1,0 +1,16 @@
+Ingrid Kowalski
+
+SUMMARY
+data analyst, 2 years experiance.
+
+EXPERIENCE
+Data Analyst, Quarry Analytics (1 yrs)
+- fixed bugs in a java app
+Analyst, Lumen Foods (1 yrs)
+- kept the budget sheet in excel
+
+SKILLS
+Airflow, Excel, Java, PowerPoint, Python, forecasting, stakeholder communication
+
+EDUCATION
+B.S., State University

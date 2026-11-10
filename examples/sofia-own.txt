@@ -1,0 +1,15 @@
+Sofia Mensah
+
+SUMMARY
+Data analyst with 4 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Tidewater Goods (2 yrs)
+- Maintained the departmental budget model in Excel
+Analyst, Lumen Foods (2 yrs)
+
+SKILLS
+A/B testing, Excel, Java, Python, Salesforce, dbt, forecasting, logistics
+
+EDUCATION
+B.S., State University

@@ -1,0 +1,23 @@
+Priya Moreau
+
+SUMMARY
+data analyst, 5 years experiance.
+
+EXPERIENCE
+Data Analyst, Quarry Analytics (2 yrs)
+- wrote the sql for the weekly ops report, 27 managers use it
+- automated invoice matching in python, saved 22 hours a month
+- made tableau dashboards for 14 warehouse sites
+- ran a/b tests on the checkout page, conversion up 25%
+- built a demand forecast that cut stockouts 14%
+Analyst, Northgate Parcel (3 yrs)
+- presented results to the vp of ops every month, 19 decks
+- edited product photos
+- made slides for team meetings
+- answered customer tickets, about 14 a week
+
+SKILLS
+A/B testing, Airflow, Photoshop, PowerPoint, Python, SQL, Tableau, customer support, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

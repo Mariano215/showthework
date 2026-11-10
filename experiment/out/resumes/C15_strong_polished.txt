@@ -1,0 +1,25 @@
+Samir Holm
+
+SUMMARY
+Data analyst with 7 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Lumen Foods (3 yrs)
+- Built the SQL behind the weekly operations report used by 34 managers
+- Automated invoice reconciliation in Python, saving 28 staff hours per month
+- Designed Tableau dashboards adopted across 23 warehouse sites
+- Ran A/B tests on checkout flow that lifted conversion 14%
+- Developed a demand forecasting model that reduced stockouts 15%
+- Presented monthly findings to the VP of Operations (32 briefings)
+Analyst, Cedar Health (4 yrs)
+- Orchestrated 25 nightly loads in Airflow
+- Analyzed routing data for a 25-truck fleet
+- Produced pipeline reports from Salesforce
+- Prepared presentation decks for team meetings
+- Maintained features in a Java application
+
+SKILLS
+A/B testing, Airflow, Java, PowerPoint, Python, SQL, Salesforce, Tableau, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

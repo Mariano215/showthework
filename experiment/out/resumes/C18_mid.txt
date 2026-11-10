@@ -1,0 +1,16 @@
+Samir Novak
+
+SUMMARY
+data analyst, 3 years experiance.
+
+EXPERIENCE
+Data Analyst, Ironbridge Supply (1 yrs)
+- automated invoice matching in python, saved 17 hours a month
+Analyst, Bluefin Retail (2 yrs)
+- ran a/b tests on the checkout page, conversion up 16%
+
+SKILLS
+A/B testing, Java, Photoshop, Python, Salesforce, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

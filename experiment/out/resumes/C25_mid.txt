@@ -1,0 +1,23 @@
+Priya Lindqvist
+
+SUMMARY
+Data analyst with 3 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Tidewater Goods (1 yrs)
+- Designed Tableau dashboards adopted across 8 warehouse sites
+- Ran A/B tests on checkout flow that lifted conversion 40%
+- Developed a demand forecasting model that reduced stockouts 5%
+- Migrated 36 data models to dbt
+- Orchestrated 31 nightly loads in Airflow
+Analyst, Northgate Parcel (2 yrs)
+- Analyzed routing data for a 39-truck fleet
+- Produced pipeline reports from Salesforce
+- Edited product imagery in Photoshop
+- Maintained the departmental budget model in Excel
+
+SKILLS
+A/B testing, Airflow, Excel, Photoshop, Python, SQL, Salesforce, Tableau, dbt, forecasting, logistics
+
+EDUCATION
+B.S., State University

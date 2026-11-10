@@ -1,0 +1,23 @@
+Gabriel Ramirez
+
+SUMMARY
+data analyst, 6 years experiance.
+
+EXPERIENCE
+Data Analyst, Redwood Mutual (3 yrs)
+- wrote the sql for the weekly ops report, 11 managers use it
+- automated invoice matching in python, saved 40 hours a month
+- made tableau dashboards for 22 warehouse sites
+- ran a/b tests on the checkout page, conversion up 35%
+- built a demand forecast that cut stockouts 29%
+Analyst, Bluefin Retail (3 yrs)
+- presented results to the vp of ops every month, 27 decks
+- moved our models to dbt, 12 models
+- answered customer tickets, about 27 a week
+- made slides for team meetings
+
+SKILLS
+A/B testing, Airflow, Java, PowerPoint, Python, SQL, Tableau, customer support, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

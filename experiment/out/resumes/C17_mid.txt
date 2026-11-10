@@ -1,0 +1,21 @@
+Mei Patel
+
+SUMMARY
+data analyst, 6 years experiance.
+
+EXPERIENCE
+Data Analyst, Bluefin Retail (3 yrs)
+- ran a/b tests on the checkout page, conversion up 19%
+- presented results to the vp of ops every month, 24 decks
+- moved our models to dbt, 40 models
+- set up airflow jobs for 29 nightly loads
+Analyst, Redwood Mutual (3 yrs)
+- worked on route data for 33 trucks
+- fixed bugs in a java app
+- made slides for team meetings
+
+SKILLS
+A/B testing, Airflow, Java, PowerPoint, Python, SQL, customer support, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

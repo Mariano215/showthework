@@ -1,0 +1,14 @@
+Dana Okafor
+
+SUMMARY
+Data analyst with 2 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Northgate Parcel (1 yrs)
+Analyst, Tidewater Goods (1 yrs)
+
+SKILLS
+A/B testing, Airflow, Photoshop, PowerPoint, Python, SQL, Salesforce, Tableau, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

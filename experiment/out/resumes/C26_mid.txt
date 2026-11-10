@@ -1,0 +1,15 @@
+Priya Abara
+
+SUMMARY
+Data analyst with 3 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Bluefin Retail (1 yrs)
+- Automated invoice reconciliation in Python, saving 22 staff hours per month
+Analyst, Lumen Foods (2 yrs)
+
+SKILLS
+Excel, PowerPoint, Python, SQL, Salesforce, forecasting, logistics
+
+EDUCATION
+B.S., State University

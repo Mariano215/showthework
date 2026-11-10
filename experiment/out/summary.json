@@ -1,0 +1,1531 @@
+{
+ "n_candidates": 50,
+ "screeners": [
+  "claude",
+  "gemini"
+ ],
+ "versions": [
+  "ai_claude",
+  "ai_gemini",
+  "human"
+ ],
+ "accuracy": [
+  {
+   "screener": "claude",
+   "version": "ai_claude",
+   "method": "naive",
+   "spearman": 0.949,
+   "mean_score": 57.0
+  },
+  {
+   "screener": "claude",
+   "version": "ai_claude",
+   "method": "evidence",
+   "spearman": 0.909,
+   "mean_score": 52.1
+  },
+  {
+   "screener": "claude",
+   "version": "ai_gemini",
+   "method": "naive",
+   "spearman": 0.721,
+   "mean_score": 84.2
+  },
+  {
+   "screener": "claude",
+   "version": "ai_gemini",
+   "method": "evidence",
+   "spearman": 0.537,
+   "mean_score": 91.2
+  },
+  {
+   "screener": "claude",
+   "version": "human",
+   "method": "naive",
+   "spearman": 0.929,
+   "mean_score": 58.7
+  },
+  {
+   "screener": "claude",
+   "version": "human",
+   "method": "evidence",
+   "spearman": 0.925,
+   "mean_score": 49.5
+  },
+  {
+   "screener": "gemini",
+   "version": "ai_claude",
+   "method": "naive",
+   "spearman": 0.926,
+   "mean_score": 61.8
+  },
+  {
+   "screener": "gemini",
+   "version": "ai_claude",
+   "method": "evidence",
+   "spearman": 0.912,
+   "mean_score": 52.1
+  },
+  {
+   "screener": "gemini",
+   "version": "ai_gemini",
+   "method": "naive",
+   "spearman": 0.628,
+   "mean_score": 93.5
+  },
+  {
+   "screener": "gemini",
+   "version": "ai_gemini",
+   "method": "evidence",
+   "spearman": 0.551,
+   "mean_score": 90.1
+  },
+  {
+   "screener": "gemini",
+   "version": "human",
+   "method": "naive",
+   "spearman": 0.925,
+   "mean_score": 59.4
+  },
+  {
+   "screener": "gemini",
+   "version": "human",
+   "method": "evidence",
+   "spearman": 0.93,
+   "mean_score": 48.8
+  }
+ ],
+ "ai_beats_human": [
+  {
+   "screener": "claude",
+   "writer": "ai_claude",
+   "method": "naive",
+   "pct_ai_beats_human": 36,
+   "avg_gain": -1.7
+  },
+  {
+   "screener": "claude",
+   "writer": "ai_claude",
+   "method": "evidence",
+   "pct_ai_beats_human": 32,
+   "avg_gain": 2.6
+  },
+  {
+   "screener": "claude",
+   "writer": "ai_gemini",
+   "method": "naive",
+   "pct_ai_beats_human": 82,
+   "avg_gain": 25.4
+  },
+  {
+   "screener": "claude",
+   "writer": "ai_gemini",
+   "method": "evidence",
+   "pct_ai_beats_human": 70,
+   "avg_gain": 41.7
+  },
+  {
+   "screener": "gemini",
+   "writer": "ai_claude",
+   "method": "naive",
+   "pct_ai_beats_human": 62,
+   "avg_gain": 2.4
+  },
+  {
+   "screener": "gemini",
+   "writer": "ai_claude",
+   "method": "evidence",
+   "pct_ai_beats_human": 42,
+   "avg_gain": 3.3
+  },
+  {
+   "screener": "gemini",
+   "writer": "ai_gemini",
+   "method": "naive",
+   "pct_ai_beats_human": 96,
+   "avg_gain": 34.1
+  },
+  {
+   "screener": "gemini",
+   "writer": "ai_gemini",
+   "method": "evidence",
+   "pct_ai_beats_human": 70,
+   "avg_gain": 41.4
+  }
+ ],
+ "the_pile": [
+  {
+   "screener": "claude",
+   "method": "naive",
+   "strong_in_shortlist": 6,
+   "strong_in_shortlist_if_nobody_used_ai": 10,
+   "true_top10_shortlisted": 6,
+   "true_top10_shortlisted_if_nobody_used_ai": 8,
+   "strong_plain_ranks": [
+    1,
+    5,
+    6,
+    11,
+    12,
+    13,
+    14,
+    16,
+    22,
+    27
+   ],
+   "stuffers_in_top10": 0,
+   "shortlist": [
+    {
+     "rank": 1,
+     "id": "C05",
+     "archetype": "strong_plain",
+     "true_fit": 85.0,
+     "version": "human",
+     "score": 93
+    },
+    {
+     "rank": 2,
+     "id": "C11",
+     "archetype": "strong_polished",
+     "true_fit": 79.2,
+     "version": "ai_claude",
+     "score": 93
+    },
+    {
+     "rank": 3,
+     "id": "C36",
+     "archetype": "weak",
+     "true_fit": 22.5,
+     "version": "ai_gemini",
+     "score": 93
+    },
+    {
+     "rank": 4,
+     "id": "C12",
+     "archetype": "strong_polished",
+     "true_fit": 92.6,
+     "version": "ai_gemini",
+     "score": 92
+    },
+    {
+     "rank": 5,
+     "id": "C01",
+     "archetype": "strong_plain",
+     "true_fit": 91.1,
+     "version": "human",
+     "score": 90
+    },
+    {
+     "rank": 6,
+     "id": "C02",
+     "archetype": "strong_plain",
+     "true_fit": 86.8,
+     "version": "human",
+     "score": 90
+    },
+    {
+     "rank": 7,
+     "id": "C15",
+     "archetype": "strong_polished",
+     "true_fit": 79.8,
+     "version": "ai_gemini",
+     "score": 90
+    },
+    {
+     "rank": 8,
+     "id": "C16",
+     "archetype": "mid",
+     "true_fit": 49.4,
+     "version": "ai_gemini",
+     "score": 90
+    },
+    {
+     "rank": 9,
+     "id": "C20",
+     "archetype": "mid",
+     "true_fit": 39.6,
+     "version": "ai_gemini",
+     "score": 90
+    },
+    {
+     "rank": 10,
+     "id": "C22",
+     "archetype": "mid",
+     "true_fit": 26.0,
+     "version": "ai_gemini",
+     "score": 90
+    }
+   ]
+  },
+  {
+   "screener": "claude",
+   "method": "evidence",
+   "strong_in_shortlist": 10,
+   "strong_in_shortlist_if_nobody_used_ai": 10,
+   "true_top10_shortlisted": 6,
+   "true_top10_shortlisted_if_nobody_used_ai": 6,
+   "strong_plain_ranks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "stuffers_in_top10": 0,
+   "shortlist": [
+    {
+     "rank": 1,
+     "id": "C01",
+     "archetype": "strong_plain",
+     "true_fit": 91.1,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 2,
+     "id": "C02",
+     "archetype": "strong_plain",
+     "true_fit": 86.8,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 3,
+     "id": "C03",
+     "archetype": "strong_plain",
+     "true_fit": 87.2,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 4,
+     "id": "C04",
+     "archetype": "strong_plain",
+     "true_fit": 77.9,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 5,
+     "id": "C05",
+     "archetype": "strong_plain",
+     "true_fit": 85.0,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 6,
+     "id": "C06",
+     "archetype": "strong_plain",
+     "true_fit": 68.8,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 7,
+     "id": "C07",
+     "archetype": "strong_plain",
+     "true_fit": 71.2,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 8,
+     "id": "C08",
+     "archetype": "strong_plain",
+     "true_fit": 70.9,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 9,
+     "id": "C09",
+     "archetype": "strong_plain",
+     "true_fit": 85.6,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 10,
+     "id": "C10",
+     "archetype": "strong_plain",
+     "true_fit": 65.6,
+     "version": "human",
+     "score": 100.0
+    }
+   ]
+  },
+  {
+   "screener": "gemini",
+   "method": "naive",
+   "strong_in_shortlist": 6,
+   "strong_in_shortlist_if_nobody_used_ai": 10,
+   "true_top10_shortlisted": 6,
+   "true_top10_shortlisted_if_nobody_used_ai": 8,
+   "strong_plain_ranks": [
+    5,
+    10,
+    16,
+    20,
+    25,
+    26,
+    30,
+    31,
+    32,
+    33
+   ],
+   "stuffers_in_top10": 0,
+   "shortlist": [
+    {
+     "rank": 1,
+     "id": "C11",
+     "archetype": "strong_polished",
+     "true_fit": 79.2,
+     "version": "ai_claude",
+     "score": 98
+    },
+    {
+     "rank": 2,
+     "id": "C12",
+     "archetype": "strong_polished",
+     "true_fit": 92.6,
+     "version": "ai_gemini",
+     "score": 98
+    },
+    {
+     "rank": 3,
+     "id": "C20",
+     "archetype": "mid",
+     "true_fit": 39.6,
+     "version": "ai_gemini",
+     "score": 98
+    },
+    {
+     "rank": 4,
+     "id": "C36",
+     "archetype": "weak",
+     "true_fit": 22.5,
+     "version": "ai_gemini",
+     "score": 98
+    },
+    {
+     "rank": 5,
+     "id": "C05",
+     "archetype": "strong_plain",
+     "true_fit": 85.0,
+     "version": "human",
+     "score": 96
+    },
+    {
+     "rank": 6,
+     "id": "C13",
+     "archetype": "strong_polished",
+     "true_fit": 76.2,
+     "version": "ai_claude",
+     "score": 96
+    },
+    {
+     "rank": 7,
+     "id": "C15",
+     "archetype": "strong_polished",
+     "true_fit": 79.8,
+     "version": "ai_gemini",
+     "score": 96
+    },
+    {
+     "rank": 8,
+     "id": "C16",
+     "archetype": "mid",
+     "true_fit": 49.4,
+     "version": "ai_gemini",
+     "score": 96
+    },
+    {
+     "rank": 9,
+     "id": "C22",
+     "archetype": "mid",
+     "true_fit": 26.0,
+     "version": "ai_gemini",
+     "score": 96
+    },
+    {
+     "rank": 10,
+     "id": "C02",
+     "archetype": "strong_plain",
+     "true_fit": 86.8,
+     "version": "human",
+     "score": 95
+    }
+   ]
+  },
+  {
+   "screener": "gemini",
+   "method": "evidence",
+   "strong_in_shortlist": 10,
+   "strong_in_shortlist_if_nobody_used_ai": 10,
+   "true_top10_shortlisted": 6,
+   "true_top10_shortlisted_if_nobody_used_ai": 6,
+   "strong_plain_ranks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "stuffers_in_top10": 0,
+   "shortlist": [
+    {
+     "rank": 1,
+     "id": "C01",
+     "archetype": "strong_plain",
+     "true_fit": 91.1,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 2,
+     "id": "C02",
+     "archetype": "strong_plain",
+     "true_fit": 86.8,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 3,
+     "id": "C03",
+     "archetype": "strong_plain",
+     "true_fit": 87.2,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 4,
+     "id": "C04",
+     "archetype": "strong_plain",
+     "true_fit": 77.9,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 5,
+     "id": "C05",
+     "archetype": "strong_plain",
+     "true_fit": 85.0,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 6,
+     "id": "C06",
+     "archetype": "strong_plain",
+     "true_fit": 68.8,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 7,
+     "id": "C07",
+     "archetype": "strong_plain",
+     "true_fit": 71.2,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 8,
+     "id": "C08",
+     "archetype": "strong_plain",
+     "true_fit": 70.9,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 9,
+     "id": "C09",
+     "archetype": "strong_plain",
+     "true_fit": 85.6,
+     "version": "human",
+     "score": 100.0
+    },
+    {
+     "rank": 10,
+     "id": "C10",
+     "archetype": "strong_plain",
+     "true_fit": 65.6,
+     "version": "human",
+     "score": 100.0
+    }
+   ]
+  }
+ ],
+ "invention": [
+  {
+   "writer": "ai_claude",
+   "rewrites_with_invented_skills": 32,
+   "total_invented": 52,
+   "of": 50,
+   "examples": {
+    "C01": [
+     "Senior title"
+    ],
+    "C03": [
+     "Senior title"
+    ],
+    "C05": [
+     "Senior title"
+    ],
+    "C06": [
+     "Senior title"
+    ],
+    "C07": [
+     "Airflow"
+    ],
+    "C09": [
+     "Senior title"
+    ],
+    "C10": [
+     "Senior title"
+    ],
+    "C11": [
+     "Senior title"
+    ],
+    "C12": [
+     "Senior title"
+    ],
+    "C13": [
+     "Senior title"
+    ],
+    "C14": [
+     "Senior title"
+    ],
+    "C15": [
+     "Senior title"
+    ],
+    "C16": [
+     "Senior title"
+    ],
+    "C20": [
+     "Senior title",
+     "stakeholder communication"
+    ],
+    "C21": [
+     "stakeholder communication"
+    ],
+    "C23": [
+     "SQL"
+    ],
+    "C24": [
+     "stakeholder communication"
+    ],
+    "C25": [
+     "stakeholder communication"
+    ],
+    "C26": [
+     "stakeholder communication"
+    ],
+    "C27": [
+     "stakeholder communication"
+    ],
+    "C29": [
+     "stakeholder communication"
+    ],
+    "C31": [
+     "logistics",
+     "stakeholder communication"
+    ],
+    "C32": [
+     "logistics"
+    ],
+    "C34": [
+     "logistics",
+     "stakeholder communication"
+    ],
+    "C35": [
+     "A/B testing",
+     "Tableau",
+     "logistics"
+    ],
+    "C36": [
+     "Airflow",
+     "SQL",
+     "Tableau",
+     "stakeholder communication"
+    ],
+    "C38": [
+     "logistics"
+    ],
+    "C39": [
+     "stakeholder communication"
+    ],
+    "C41": [
+     "A/B testing",
+     "Airflow",
+     "SQL",
+     "Tableau",
+     "dbt",
+     "logistics",
+     "stakeholder communication"
+    ],
+    "C43": [
+     "logistics"
+    ],
+    "C44": [
+     "logistics",
+     "stakeholder communication"
+    ],
+    "C45": [
+     "Python",
+     "SQL",
+     "Tableau",
+     "dbt",
+     "logistics",
+     "stakeholder communication"
+    ]
+   }
+  },
+  {
+   "writer": "ai_gemini",
+   "rewrites_with_invented_skills": 50,
+   "total_invented": 375,
+   "of": 50,
+   "examples": {
+    "C01": [
+     "Senior title",
+     "VBA",
+     "contact details",
+     "employment dates",
+     "machine learning",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C02": [
+     "Git",
+     "Senior title",
+     "contact details",
+     "pandas/NumPy"
+    ],
+    "C03": [
+     "Senior title",
+     "contact details",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C04": [
+     "Senior title",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C05": [
+     "Senior title",
+     "contact details",
+     "pandas/NumPy"
+    ],
+    "C06": [
+     "contact details",
+     "employment dates",
+     "pandas/NumPy"
+    ],
+    "C07": [
+     "Airflow",
+     "Git",
+     "Senior title",
+     "contact details",
+     "employment dates",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C08": [
+     "Airflow",
+     "Git",
+     "Senior title",
+     "contact details",
+     "dbt",
+     "employment dates",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C09": [
+     "Git",
+     "Senior title",
+     "contact details",
+     "machine learning",
+     "pandas/NumPy"
+    ],
+    "C10": [
+     "Airflow",
+     "Git",
+     "Senior title",
+     "Snowflake",
+     "contact details",
+     "dbt",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C11": [
+     "Senior title",
+     "contact details",
+     "machine learning"
+    ],
+    "C12": [
+     "Senior title",
+     "contact details",
+     "employment dates",
+     "machine learning"
+    ],
+    "C13": [
+     "Senior title",
+     "contact details",
+     "machine learning"
+    ],
+    "C14": [
+     "Senior title",
+     "contact details",
+     "machine learning",
+     "pandas/NumPy"
+    ],
+    "C15": [
+     "Senior title",
+     "contact details",
+     "pandas/NumPy"
+    ],
+    "C16": [
+     "Senior title",
+     "contact details",
+     "employment dates",
+     "pandas/NumPy",
+     "stakeholder communication"
+    ],
+    "C17": [
+     "Git",
+     "Senior title",
+     "Tableau",
+     "contact details",
+     "employment dates",
+     "machine learning",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C18": [
+     "Airflow",
+     "Git",
+     "SQL",
+     "Snowflake",
+     "Tableau",
+     "contact details",
+     "dbt",
+     "employment dates",
+     "pandas/NumPy"
+    ],
+    "C19": [
+     "A/B testing",
+     "Git",
+     "SQL",
+     "Senior title",
+     "contact details",
+     "employment dates",
+     "forecasting",
+     "logistics"
+    ],
+    "C20": [
+     "A/B testing",
+     "Airflow",
+     "Git",
+     "Senior title",
+     "contact details",
+     "employment dates",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C21": [
+     "Airflow",
+     "Git",
+     "Python",
+     "SQL",
+     "Snowflake",
+     "contact details",
+     "employment dates",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C22": [
+     "Airflow",
+     "Git",
+     "Python",
+     "R",
+     "Tableau",
+     "contact details",
+     "employment dates",
+     "forecasting",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C23": [
+     "A/B testing",
+     "Python",
+     "SQL",
+     "contact details",
+     "employment dates",
+     "forecasting",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C24": [
+     "Git",
+     "Senior title",
+     "employment dates",
+     "forecasting",
+     "machine learning",
+     "stakeholder communication"
+    ],
+    "C25": [
+     "Git",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C26": [
+     "A/B testing",
+     "Airflow",
+     "Tableau",
+     "VBA",
+     "contact details",
+     "dbt",
+     "employment dates",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C27": [
+     "Git",
+     "SQL",
+     "Tableau",
+     "contact details",
+     "forecasting",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C28": [
+     "A/B testing",
+     "Git",
+     "Python",
+     "Snowflake",
+     "contact details",
+     "employment dates",
+     "machine learning",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C29": [
+     "Git",
+     "contact details",
+     "employment dates",
+     "forecasting",
+     "pandas/NumPy",
+     "stakeholder communication"
+    ],
+    "C30": [
+     "A/B testing",
+     "Airflow",
+     "SQL",
+     "contact details",
+     "employment dates",
+     "logistics",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C31": [
+     "A/B testing",
+     "Airflow",
+     "Python",
+     "SQL",
+     "VBA",
+     "contact details",
+     "employment dates",
+     "logistics",
+     "machine learning",
+     "pandas/NumPy",
+     "stakeholder communication"
+    ],
+    "C32": [
+     "A/B testing",
+     "Git",
+     "Python",
+     "Snowflake",
+     "contact details",
+     "dbt",
+     "employment dates",
+     "forecasting",
+     "logistics",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C33": [
+     "Git",
+     "Snowflake",
+     "contact details",
+     "employment dates",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C34": [
+     "Airflow",
+     "Git",
+     "Snowflake",
+     "contact details",
+     "employment dates",
+     "forecasting",
+     "logistics",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C35": [
+     "A/B testing",
+     "Tableau",
+     "contact details",
+     "employment dates",
+     "logistics",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C36": [
+     "Airflow",
+     "Git",
+     "SQL",
+     "Senior title",
+     "Snowflake",
+     "Tableau",
+     "VBA",
+     "contact details",
+     "employment dates",
+     "machine learning",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C37": [
+     "A/B testing",
+     "Airflow",
+     "SQL",
+     "Snowflake",
+     "Tableau",
+     "contact details",
+     "forecasting",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C38": [
+     "A/B testing",
+     "Git",
+     "contact details",
+     "dbt",
+     "employment dates",
+     "forecasting",
+     "logistics",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C39": [
+     "Airflow",
+     "Git",
+     "Senior title",
+     "Snowflake",
+     "VBA",
+     "contact details",
+     "dbt",
+     "employment dates",
+     "forecasting",
+     "machine learning",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C40": [
+     "Airflow",
+     "Git",
+     "Snowflake",
+     "Tableau",
+     "contact details",
+     "dbt",
+     "employment dates",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C41": [
+     "A/B testing",
+     "Airflow",
+     "Git",
+     "SQL",
+     "Snowflake",
+     "Tableau",
+     "VBA",
+     "contact details",
+     "dbt",
+     "employment dates",
+     "logistics",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C42": [
+     "Airflow",
+     "Git",
+     "Python",
+     "SQL",
+     "Snowflake",
+     "contact details",
+     "dbt",
+     "employment dates",
+     "pandas/NumPy"
+    ],
+    "C43": [
+     "A/B testing",
+     "Git",
+     "SQL",
+     "Tableau",
+     "VBA",
+     "contact details",
+     "dbt",
+     "logistics",
+     "machine learning",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C44": [
+     "A/B testing",
+     "Git",
+     "Python",
+     "SQL",
+     "Snowflake",
+     "contact details",
+     "employment dates",
+     "logistics",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C45": [
+     "A/B testing",
+     "Python",
+     "SQL",
+     "Snowflake",
+     "Tableau",
+     "contact details",
+     "dbt",
+     "employment dates",
+     "logistics",
+     "pandas/NumPy",
+     "scikit-learn",
+     "stakeholder communication"
+    ],
+    "C46": [
+     "Git",
+     "Looker",
+     "Senior title",
+     "Snowflake",
+     "contact details",
+     "employment dates",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C47": [
+     "Git",
+     "Snowflake",
+     "contact details",
+     "employment dates",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C48": [
+     "Git",
+     "R",
+     "contact details",
+     "employment dates",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C49": [
+     "Git",
+     "Snowflake",
+     "contact details",
+     "employment dates",
+     "machine learning",
+     "pandas/NumPy",
+     "scikit-learn"
+    ],
+    "C50": [
+     "Git",
+     "contact details",
+     "pandas/NumPy",
+     "scikit-learn"
+    ]
+   }
+  }
+ ],
+ "candidates": [
+  {
+   "id": "C01",
+   "name": "Marcus Okafor",
+   "archetype": "strong_plain",
+   "true_fit": 91.1,
+   "submitted": "human"
+  },
+  {
+   "id": "C02",
+   "name": "Dana Chen",
+   "archetype": "strong_plain",
+   "true_fit": 86.8,
+   "submitted": "human"
+  },
+  {
+   "id": "C03",
+   "name": "Mei Holm",
+   "archetype": "strong_plain",
+   "true_fit": 87.2,
+   "submitted": "human"
+  },
+  {
+   "id": "C04",
+   "name": "Gabriel Ramirez",
+   "archetype": "strong_plain",
+   "true_fit": 77.9,
+   "submitted": "human"
+  },
+  {
+   "id": "C05",
+   "name": "Fatima Patel",
+   "archetype": "strong_plain",
+   "true_fit": 85.0,
+   "submitted": "human"
+  },
+  {
+   "id": "C06",
+   "name": "Priya Moreau",
+   "archetype": "strong_plain",
+   "true_fit": 68.8,
+   "submitted": "human"
+  },
+  {
+   "id": "C07",
+   "name": "Kwame Grant",
+   "archetype": "strong_plain",
+   "true_fit": 71.2,
+   "submitted": "human"
+  },
+  {
+   "id": "C08",
+   "name": "Owen Ito",
+   "archetype": "strong_plain",
+   "true_fit": 70.9,
+   "submitted": "human"
+  },
+  {
+   "id": "C09",
+   "name": "Owen Nakamura",
+   "archetype": "strong_plain",
+   "true_fit": 85.6,
+   "submitted": "human"
+  },
+  {
+   "id": "C10",
+   "name": "Nadia Novak",
+   "archetype": "strong_plain",
+   "true_fit": 65.6,
+   "submitted": "human"
+  },
+  {
+   "id": "C11",
+   "name": "Amara Reyes",
+   "archetype": "strong_polished",
+   "true_fit": 79.2,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C12",
+   "name": "Nadia Silva",
+   "archetype": "strong_polished",
+   "true_fit": 92.6,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C13",
+   "name": "Nadia Okafor",
+   "archetype": "strong_polished",
+   "true_fit": 76.2,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C14",
+   "name": "Ingrid Grant",
+   "archetype": "strong_polished",
+   "true_fit": 65.1,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C15",
+   "name": "Samir Holm",
+   "archetype": "strong_polished",
+   "true_fit": 79.8,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C16",
+   "name": "Samir Silva",
+   "archetype": "mid",
+   "true_fit": 49.4,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C17",
+   "name": "Mei Patel",
+   "archetype": "mid",
+   "true_fit": 48.5,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C18",
+   "name": "Samir Novak",
+   "archetype": "mid",
+   "true_fit": 30.6,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C19",
+   "name": "Samir Reyes",
+   "archetype": "mid",
+   "true_fit": 31.6,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C20",
+   "name": "Owen Okafor",
+   "archetype": "mid",
+   "true_fit": 39.6,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C21",
+   "name": "Tomas Haddad",
+   "archetype": "mid",
+   "true_fit": 31.9,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C22",
+   "name": "Sofia Ramirez",
+   "archetype": "mid",
+   "true_fit": 26.0,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C23",
+   "name": "Avery Lindqvist",
+   "archetype": "mid",
+   "true_fit": 24.2,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C24",
+   "name": "Owen Grant",
+   "archetype": "mid",
+   "true_fit": 43.8,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C25",
+   "name": "Priya Lindqvist",
+   "archetype": "mid",
+   "true_fit": 46.7,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C26",
+   "name": "Priya Abara",
+   "archetype": "mid",
+   "true_fit": 22.8,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C27",
+   "name": "Hiroshi Ito",
+   "archetype": "mid",
+   "true_fit": 25.6,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C28",
+   "name": "Priya Kowalski",
+   "archetype": "mid",
+   "true_fit": 28.4,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C29",
+   "name": "Tomas Kowalski",
+   "archetype": "mid",
+   "true_fit": 43.1,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C30",
+   "name": "Avery Haddad",
+   "archetype": "mid",
+   "true_fit": 32.5,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C31",
+   "name": "Rafael Kowalski",
+   "archetype": "weak",
+   "true_fit": 15.1,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C32",
+   "name": "Rafael Ito",
+   "archetype": "weak",
+   "true_fit": 19.0,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C33",
+   "name": "Dana Okafor",
+   "archetype": "weak",
+   "true_fit": 32.1,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C34",
+   "name": "Kwame Ito",
+   "archetype": "weak",
+   "true_fit": 24.7,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C35",
+   "name": "Amara Chen",
+   "archetype": "weak",
+   "true_fit": 22.6,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C36",
+   "name": "Sofia Mensah",
+   "archetype": "weak",
+   "true_fit": 22.5,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C37",
+   "name": "Dana Nakamura",
+   "archetype": "weak",
+   "true_fit": 13.0,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C38",
+   "name": "Luis Ramirez",
+   "archetype": "weak",
+   "true_fit": 21.0,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C39",
+   "name": "Luis Moreau",
+   "archetype": "weak",
+   "true_fit": 24.7,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C40",
+   "name": "Samir Lindqvist",
+   "archetype": "weak",
+   "true_fit": 26.7,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C41",
+   "name": "Fatima Brennan",
+   "archetype": "weak",
+   "true_fit": 9.7,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C42",
+   "name": "Jordan Ortiz",
+   "archetype": "weak",
+   "true_fit": 21.0,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C43",
+   "name": "Ingrid Kowalski",
+   "archetype": "weak",
+   "true_fit": 17.1,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C44",
+   "name": "Dana Grant",
+   "archetype": "weak",
+   "true_fit": 14.9,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C45",
+   "name": "Priya Haddad",
+   "archetype": "weak",
+   "true_fit": 11.2,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C46",
+   "name": "Nadia Haddad",
+   "archetype": "stuffer",
+   "true_fit": 22.5,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C47",
+   "name": "Gabriel Reyes",
+   "archetype": "stuffer",
+   "true_fit": 22.3,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C48",
+   "name": "Hiroshi Duarte",
+   "archetype": "stuffer",
+   "true_fit": 20.6,
+   "submitted": "ai_gemini"
+  },
+  {
+   "id": "C49",
+   "name": "Tomas Grant",
+   "archetype": "stuffer",
+   "true_fit": 24.5,
+   "submitted": "ai_claude"
+  },
+  {
+   "id": "C50",
+   "name": "Marcus Moreau",
+   "archetype": "stuffer",
+   "true_fit": 11.5,
+   "submitted": "ai_gemini"
+  }
+ ]
+}

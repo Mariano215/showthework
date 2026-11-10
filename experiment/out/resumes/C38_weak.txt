@@ -1,0 +1,17 @@
+Luis Ramirez
+
+SUMMARY
+data analyst, 2 years experiance.
+
+EXPERIENCE
+Data Analyst, Tidewater Goods (1 yrs)
+- fixed bugs in a java app
+- edited product photos
+Analyst, Cedar Health (1 yrs)
+- pulled reports out of salesforce
+
+SKILLS
+Airflow, Java, Photoshop, Python, SQL, Salesforce, Tableau, stakeholder communication
+
+EDUCATION
+B.S., State University

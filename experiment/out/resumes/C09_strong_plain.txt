@@ -1,0 +1,24 @@
+Owen Nakamura
+
+SUMMARY
+data analyst, 9 years experiance.
+
+EXPERIENCE
+Data Analyst, Redwood Mutual (4 yrs)
+- wrote the sql for the weekly ops report, 19 managers use it
+- automated invoice matching in python, saved 27 hours a month
+- made tableau dashboards for 21 warehouse sites
+- ran a/b tests on the checkout page, conversion up 25%
+- built a demand forecast that cut stockouts 6%
+Analyst, Ironbridge Supply (5 yrs)
+- presented results to the vp of ops every month, 30 decks
+- set up airflow jobs for 21 nightly loads
+- worked on route data for 24 trucks
+- fixed bugs in a java app
+- answered customer tickets, about 22 a week
+
+SKILLS
+A/B testing, Airflow, Java, PowerPoint, Python, SQL, Tableau, customer support, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

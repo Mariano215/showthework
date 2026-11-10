@@ -1,0 +1,17 @@
+Sofia Ramirez
+
+SUMMARY
+data analyst, 5 years experiance.
+
+EXPERIENCE
+Data Analyst, Northgate Parcel (2 yrs)
+- ran a/b tests on the checkout page, conversion up 23%
+- moved our models to dbt, 5 models
+Analyst, Ironbridge Supply (3 yrs)
+- fixed bugs in a java app
+
+SKILLS
+A/B testing, Java, Photoshop, SQL, customer support, dbt, logistics
+
+EDUCATION
+B.S., State University

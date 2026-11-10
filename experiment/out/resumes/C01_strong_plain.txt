@@ -1,0 +1,25 @@
+Marcus Okafor
+
+SUMMARY
+data analyst, 9 years experiance.
+
+EXPERIENCE
+Data Analyst, Ironbridge Supply (4 yrs)
+- wrote the sql for the weekly ops report, 33 managers use it
+- automated invoice matching in python, saved 35 hours a month
+- made tableau dashboards for 36 warehouse sites
+- ran a/b tests on the checkout page, conversion up 4%
+- built a demand forecast that cut stockouts 39%
+- presented results to the vp of ops every month, 17 decks
+Analyst, Lumen Foods (5 yrs)
+- set up airflow jobs for 6 nightly loads
+- worked on route data for 36 trucks
+- kept the budget sheet in excel
+- answered customer tickets, about 30 a week
+- fixed bugs in a java app
+
+SKILLS
+A/B testing, Airflow, Excel, Java, Python, SQL, Tableau, customer support, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

@@ -1,0 +1,19 @@
+Hiroshi Ito
+
+SUMMARY
+Data analyst with 3 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Cedar Health (1 yrs)
+- Automated invoice reconciliation in Python, saving 21 staff hours per month
+- Migrated 30 data models to dbt
+- Analyzed routing data for a 4-truck fleet
+Analyst, Northgate Parcel (2 yrs)
+- Resolved about 25 customer tickets weekly
+- Maintained the departmental budget model in Excel
+
+SKILLS
+A/B testing, Airflow, Excel, Photoshop, Python, customer support, dbt, logistics
+
+EDUCATION
+B.S., State University

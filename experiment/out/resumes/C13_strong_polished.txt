@@ -1,0 +1,22 @@
+Nadia Okafor
+
+SUMMARY
+Data analyst with 6 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Ironbridge Supply (3 yrs)
+- Built the SQL behind the weekly operations report used by 21 managers
+- Automated invoice reconciliation in Python, saving 21 staff hours per month
+- Designed Tableau dashboards adopted across 37 warehouse sites
+- Ran A/B tests on checkout flow that lifted conversion 21%
+Analyst, Quarry Analytics (3 yrs)
+- Developed a demand forecasting model that reduced stockouts 25%
+- Presented monthly findings to the VP of Operations (11 briefings)
+- Analyzed routing data for a 3-truck fleet
+- Produced pipeline reports from Salesforce
+
+SKILLS
+A/B testing, Airflow, Java, Photoshop, Python, SQL, Salesforce, Tableau, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

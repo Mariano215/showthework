@@ -1,0 +1,25 @@
+Mei Holm
+
+SUMMARY
+data analyst, 5 years experiance.
+
+EXPERIENCE
+Data Analyst, Lumen Foods (2 yrs)
+- wrote the sql for the weekly ops report, 15 managers use it
+- automated invoice matching in python, saved 29 hours a month
+- made tableau dashboards for 12 warehouse sites
+- ran a/b tests on the checkout page, conversion up 31%
+- built a demand forecast that cut stockouts 3%
+- presented results to the vp of ops every month, 8 decks
+Analyst, Bluefin Retail (3 yrs)
+- moved our models to dbt, 3 models
+- worked on route data for 40 trucks
+- edited product photos
+- answered customer tickets, about 8 a week
+- kept the budget sheet in excel
+
+SKILLS
+A/B testing, Airflow, Excel, Photoshop, Python, SQL, Tableau, customer support, dbt, forecasting, logistics, stakeholder communication
+
+EDUCATION
+B.S., State University

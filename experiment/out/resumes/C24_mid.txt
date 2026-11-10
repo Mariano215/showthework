@@ -1,0 +1,20 @@
+Owen Grant
+
+SUMMARY
+Data analyst with 5 years of experience turning operational data into decisions.
+
+EXPERIENCE
+Data Analyst, Lumen Foods (2 yrs)
+- Built the SQL behind the weekly operations report used by 28 managers
+- Automated invoice reconciliation in Python, saving 3 staff hours per month
+- Designed Tableau dashboards adopted across 33 warehouse sites
+Analyst, Ironbridge Supply (3 yrs)
+- Ran A/B tests on checkout flow that lifted conversion 36%
+- Analyzed routing data for a 11-truck fleet
+- Edited product imagery in Photoshop
+
+SKILLS
+A/B testing, Photoshop, PowerPoint, Python, SQL, Tableau, customer support, logistics
+
+EDUCATION
+B.S., State University
